@@ -8,3 +8,4 @@ public class SolarSystemBasics {
     String planets;
 
 }
+
