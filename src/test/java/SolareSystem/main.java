@@ -15,6 +15,15 @@ public class main {
         Sun.color="black";
         Sun.temp="12131234khk";
 
+        // Planet1
+
+        Planet1 planet1=new Planet1();
+        planet1.color="green";
+        planet1.name="abacadarba";
+        planet1.temp="100000k";
+        planet1.radius="800000km";
+
+
 
     }
 }
