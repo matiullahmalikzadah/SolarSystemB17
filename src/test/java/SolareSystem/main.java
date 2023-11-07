@@ -15,6 +15,12 @@ public class main {
         Sun.color="black";
         Sun.temp="12131234khk";
 
+        //Planet2
+        Planet2 shah=new Planet2();
+        shah.name="Rasol";
+        shah.color="white";
+        shah.size="123km";
+
 
     }
 }
