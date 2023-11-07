@@ -1,5 +1,7 @@
 package SolareSystem;
 
+import java.sql.Time;
+
 public class main {
     public static void main(String[] args) {
 
@@ -14,6 +16,7 @@ public class main {
         Sun.name="panther";
         Sun.color="black";
         Sun.temp="12131234khk";
+
 
 
     }
